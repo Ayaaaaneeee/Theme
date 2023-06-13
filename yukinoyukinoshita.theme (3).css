@@ -44,7 +44,7 @@
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
   --user-modal-image: transparent;
-  --user-modal-position: top left;
+  --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
@@ -62,7 +62,7 @@
   --muted-color: rgb(101,101,101,1);
   --online-color: #00F485;
   --idle-color: #faa61a;
-  --dnd-color: #E60000;
+  --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
   --main-font: Sono;
